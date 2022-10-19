@@ -20,7 +20,7 @@
 <br/>
 
 # 4. 소개 영상
-프로젝트 소개 영상 첨부
+[![03조 제조영상 불량 검출 및 분류 인공지능 학습모델 개발](https://img.youtube.com/vi/U_JppJVg-Lc/0.jpg)](https://www.youtube.com/watch?v=U_JppJVg-Lc)
 <br/>
 
 # 5. 사용법
